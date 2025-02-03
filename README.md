@@ -28,3 +28,6 @@ int main() {
     printf("\nGame Over! Thanks for playing.\n");
     return 0;
 }
+
+
+![image](https://github.com/user-attachments/assets/7775752c-1282-4ae9-a6a0-1207f67f2b73)
